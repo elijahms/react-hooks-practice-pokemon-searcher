@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "hp": "100",
+      "name": "The Wild Wes",
+      "sprites": {
+        "back": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "front": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+      },
+      "id": 151
     }
   ]
 }
